@@ -1,11 +1,11 @@
 {
-  "name": "parcel-project-template",
+  "name": "hw-08",
   "version": "2.0.0",
   "description": "",
   "homepage": "https://marksavkait.github.io/hw-08",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /https://marksavkait.github.io/hw-08/"
+    "build": "parcel build src/*.html --public-url /hw-08/"
   },
   "repository": {
     "type": "git",
